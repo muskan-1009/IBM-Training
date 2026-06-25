@@ -1,0 +1,6 @@
+Mohan, 90000
+Sohan, 89000
+Riya, 42000
+Priya, 14000
+Rohit, 55000
+Mohit, 12000
