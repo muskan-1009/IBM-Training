@@ -50,7 +50,7 @@ color:white;
 
 background:rgba(255,255,255,.15);
 
-color:black;
+color:white;
 
 border-radius:12px;
 
