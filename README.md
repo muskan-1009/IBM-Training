@@ -2,13 +2,13 @@
 
 # 📚 Python & Machine Learning Projects Repository
 
-Welcome to my GitHub repository! 👋
+Welcome to my GitHub repository! 
 
 This repository contains Python practice programs, Machine Learning notebooks, datasets, and an AI-based Resume Generator developed during my academic learning and internship.
 
 ---
 
-# 📂 Repository Contents
+# Repository Contents
 
 ## 🤖 AI Resume Studio
 
@@ -23,14 +23,14 @@ An AI-powered Resume & Cover Letter Generator developed using **Python**, **Stre
 
 ---
 
-# 📒 Machine Learning Notebooks
+#  Machine Learning Notebooks
 
-## 📌 Classification_Minor_Project.ipynb
+##  Classification_Minor_Project.ipynb
 A machine learning classification project demonstrating data preprocessing, model training, prediction, and evaluation using classification algorithms.
 
 ---
 
-## 📌 PBELassign_reg.ipynb
+##  PBELassign_reg.ipynb
 A regression-based machine learning project covering:
 - Data Preprocessing
 - Feature Engineering
@@ -39,7 +39,7 @@ A regression-based machine learning project covering:
 
 ---
 
-## 📌 Test1.ipynb
+##  Test1.ipynb
 Machine Learning assessment notebook covering:
 
 - Scatter Plot Visualization
@@ -52,7 +52,7 @@ This notebook demonstrates both data visualization and implementation of multipl
 
 ---
 
-## 📌 Test2_PBEL.ipynb
+##  Test2_PBEL.ipynb
 Natural Language Processing (NLP) project that includes:
 
 - Text Preprocessing
@@ -63,7 +63,7 @@ Natural Language Processing (NLP) project that includes:
 
 ---
 
-# 🐍 Python Programs
+#  Python Programs
 
 | File | Description |
 |------|-------------|
